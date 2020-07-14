@@ -50,7 +50,7 @@ function show_host -d "Show host & user name"
     if [ (id -u) = "0" ]
       echo -n (set_color red)
     else
-      echo -n (set_color blue)
+      echo -n (set_color cyan)
     end
     echo -n ''(hostname|cut -d . -f 1)ˇ$USER' ' (set color normal)
   end
