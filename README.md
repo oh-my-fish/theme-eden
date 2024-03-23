@@ -29,7 +29,7 @@ $ fisher rm theme-eden
 
 ## Features
 
-* Last command's timestamp & exit status on right.
+* Last command's **timestamp**, **duration**, and **exit status**(if not zero) on right.
 * `eden_toggle_path` display long or short pwd.
 * `eden_toggle_host` show or hide host & user.
 * `eden_prompt_char` custom prompt char.
@@ -38,11 +38,7 @@ $ fisher rm theme-eden
 
 ## Screenshot
 
-<p align="center">
-<img width="883" height="529" alt="Theme Eden Screenshot" src="https://cloud.githubusercontent.com/assets/215282/14846313/c3e211f0-0c95-11e6-8814-93a2b9a78b2c.png">
-</p>
-
-Font: [INCONSOLATA](https://www.google.com/fonts/specimen/Inconsolata)
+![Fish Shell theme Eden screenshot](https://github.com/amio/fish-theme-eden/assets/215282/fd437f9b-acfe-473b-b6e6-fa28f92ff7c1)
 
 # License
 
